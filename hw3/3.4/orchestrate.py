@@ -125,12 +125,12 @@ def train_best_model(
         create_markdown_artifact(
             key="duration-model-report", markdown=markdown__rmse_report
         )
-        
+
     return None
 
 
 @flow
-def main_flow(
+def main_flow_hw3(
     train_path: str = "hw3/data/green_tripdata_2022-01.parquet",
     val_path: str = "hw3/data/green_tripdata_2022-02.parquet",
 ) -> None:
@@ -152,4 +152,4 @@ def main_flow(
 
 
 if __name__ == "__main__":
-    main_flow()
+    main_flow_hw3()
