@@ -66,7 +66,7 @@ y_pred = model.predict(X_val)
 
 
 print("Standard deviation of y_pred: ", y_pred.std())
-print("Mean deviation of y_pred: ", y_pred.mean())
+print("Mean of y_pred: ", y_pred.mean())
 
 
 # In[11]:
