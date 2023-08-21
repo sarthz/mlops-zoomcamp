@@ -1,0 +1,27 @@
+hw4/output/yellow
+hw5/data
+
+#Ignore files/folders/large datasets for capstone_project
+
+capstone_project/kkbox-churn-prediction-challenge
+capstone_project/kkbox-churn-prediction-challenge/7z
+capstone_project/kkbox-churn-prediction-challenge/sample_submission_v2.csv
+capstone_project/kkbox-churn-prediction-challenge/sample_submission_zero.csv
+capstone_project/kkbox-churn-prediction-challenge/train_v2.csv
+capstone_project/kkbox-churn-prediction-challenge/transactions_v2.csv
+capstone_project/kkbox-churn-prediction-challenge/transactions.csv
+capstone_project/kkbox-churn-prediction-challenge/user_logs.csv
+capstone_project/kkbox-churn-prediction-challenge/WSDMChurnLabeller.scala
+capstone_project/df_full.pkl
+capstone_project/df_test.pkl
+capstone_project/df_train.pkl
+capstone_project/df_val.pkl
+capstone_project/models/rf.bin
+capstone_project/mlruns/3/8eb6c1d188c7441c900ee29f0f4917ec
+capstone_project/mlruns/3/532f580ce1a94d22a184e29f70299f11
+capstone_project/LightGBM
+capstone_project/prefect-mlops-zoomcamp
+capstone_project/read_me.md
+
+
+
